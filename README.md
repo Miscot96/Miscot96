@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello there, I'm Milen 👋
 
-<!--
-**Miscot96/Miscot96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About me
+- Learning C# and .NET
+- Exploring Unity
+- Experience with Python
 
-Here are some ideas to get you started:
+## 🛠️ Projects
+- [Calculator (C#)](https://github.com/Miscot96/calculator-csharp)
+- Contact Manager (C#, in progress)
+- ToDo App (C#, in progress)
+- Inventory Program (Python, in progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently learning
+- C#
+- .NET
+- Object-Oriented Programming
+
+## 🎯 Goals
+- Become a professional software developer
+- Build useful real-world applications
+- Explore web development and working with data
