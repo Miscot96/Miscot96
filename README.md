@@ -7,7 +7,7 @@
 
 ## 🛠️ Projects
 - [Calculator (C#)](https://github.com/Miscot96/calculator-csharp)
-- Contact Manager (C#, in progress)
+- [Address Book (C#)](https://github.com/Miscot96/address-book-csharp)
 - [ToDo App (C#)](https://github.com/Miscot96/todo-list-csharp)
 - Inventory Program (Python, in progress)
 
