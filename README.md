@@ -8,7 +8,7 @@
 ## 🛠️ Projects
 - [Calculator (C#)](https://github.com/Miscot96/calculator-csharp)
 - Contact Manager (C#, in progress)
-- ToDo App (C#, in progress)
+- [ToDo App (C#)](https://github.com/Miscot96/todo-list-csharp)
 - Inventory Program (Python, in progress)
 
 ## 📚 Currently learning
