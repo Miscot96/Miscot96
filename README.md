@@ -1,24 +1,40 @@
 # Hello there, I'm Milen 👋
 
 ## 🚀 About me
-- Learning C# and .NET
-- Exploring Unity
-- Experience with Python
+
+* 💻 Learning **C# and .NET** through real projects
+* 🎮 Exploring Unity (2D game in progress)
+* 🐍 Background in Python
+
+---
 
 ## 🛠️ Projects
-- [Calculator (C#)](https://github.com/Miscot96/calculator-csharp)
-- [Address Book (C#)](https://github.com/Miscot96/address-book-csharp)
-- [ToDo App (C#)](https://github.com/Miscot96/todo-list-csharp)
-- [ToDo Web App (C# / ASP.NET)](https://github.com/Miscot96/todo-webapp-csharp) – MVC web app with persistence and timestamps
-- [ToDo Web App (C# / ASP.NET + DB)](https://github.com/Miscot96/todo-webapp-csharp-db) – MVC app with EF Core, SQLite, and task lifecycle + due dates
-- Inventory Program (Python, in progress)
+
+* 📇 **Address Book Web App** – ASP.NET MVC + EF Core + SQLite
+  CRUD • Search • ⭐ Favorites • Notes
+  🔗 https://github.com/Miscot96/address-book-web-app
+
+* ✅ **ToDo Web Apps** – ASP.NET MVC
+  Basic version → DB version with EF Core, lifecycle, due dates
+  🔗 https://github.com/Miscot96/todo-web-app
+  🔗 https://github.com/Miscot96/todo-web-app-db
+
+* 🖥️ **C# Console Apps**
+  Calculator • ToDo • Address Book (OOP fundamentals)
+  🔗 https://github.com/Miscot96/calculator-csharp
+  🔗 https://github.com/Miscot96/todo-list-csharp
+  🔗 https://github.com/Miscot96/address-book-csharp
+
+* 📦 **Inventory Program (Python)** *(in progress)*
+
+---
 
 ## 📚 Currently learning
-- C#
-- .NET
-- Object-Oriented Programming
+
+C# • .NET • ASP.NET Core • Databases • OOP
+
+---
 
 ## 🎯 Goals
-- Become a professional software developer
-- Build useful real-world applications
-- Explore web development and working with data
+
+Become a professional developer and transition into a full-time role
