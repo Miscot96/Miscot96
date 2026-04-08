@@ -16,8 +16,8 @@
 
 * ✅ **ToDo Web Apps** – ASP.NET MVC
   Basic version → DB version with EF Core, lifecycle, due dates
-  🔗 https://github.com/Miscot96/todo-web-app
-  🔗 https://github.com/Miscot96/todo-web-app-db
+  🔗 https://github.com/Miscot96/todo-webapp-csharp
+  🔗 https://github.com/Miscot96/todo-webapp-csharp-db
 
 * 🖥️ **C# Console Apps**
   Calculator • ToDo • Address Book (OOP fundamentals)
