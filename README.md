@@ -1,4 +1,4 @@
-# Hello there, I'm Milen 👋
+# Hello there, I'm Milen!
 
 ## 🚀 About me
 
