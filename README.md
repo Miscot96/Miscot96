@@ -25,7 +25,9 @@
   🔗 https://github.com/Miscot96/todo-list-csharp
   🔗 https://github.com/Miscot96/address-book-csharp
 
-* 📦 **Inventory Program (Python)** *(in progress)*
+* 📦 **Inventory & Production Tracking App (Python)**  
+  Desktop app for managing materials and production orders with role-based access, real-time calculations, and Excel export.  
+  🔗 https://github.com/Miscot96/inventory-app
 
 ---
 
